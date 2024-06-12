@@ -5,7 +5,7 @@
 A simple age old classic version of snake game. You can control the snake using the arrow keys and try to eat the food and increase your score. If the snake hits himself or the boundary wall, user dies and the game is restarted. The game was originally made in python, but was later converted into web assembly using pygbag (a python library). The final folder was then deployed to github pages and can be tested and played there. Just go to the link given in repo and you can play the game.
 
 ## Requirements
-Python and it's libraries `pygame` and `pygbag` are required to run the program. You can install pygame using the following commands:
+Python and it's libraries `pygame` and `pygbag` are required to run the program. You can install them using the following commands:
 
 ```cmd
 pip install pygame
